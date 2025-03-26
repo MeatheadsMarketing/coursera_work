@@ -1,0 +1,11 @@
+[
+  {
+    "assistant_name": "Metadata Manager",
+    "task_type": "metadata_classification",
+    "file": "pages/assistant_metadata_manager.py",
+    "input_format": "CSV with dataset headers",
+    "output_format": "Tagged metadata table",
+    "module": "Module 2: Exploring the Data World"
+  }
+]
+
